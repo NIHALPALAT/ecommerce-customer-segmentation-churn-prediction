@@ -57,5 +57,3 @@ The goal is to identify valuable customer segments, understand purchasing behavi
 Nihal P
 
 
-
-This repository is intended for educational and portfolio purposes.
